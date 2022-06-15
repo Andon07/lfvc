@@ -16,5 +16,23 @@
         "lfvc2ad461e3": {}
       }
     }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lfvc-prod-81149-authRole",
+      "UnauthRoleArn": "arn:aws:iam::630176651052:role/amplify-lfvc-prod-81149-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::630176651052:role/amplify-lfvc-prod-81149-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lfvc-prod-81149-deployment",
+      "UnauthRoleName": "amplify-lfvc-prod-81149-unauthRole",
+      "StackName": "amplify-lfvc-prod-81149",
+      "StackId": "arn:aws:cloudformation:us-east-1:630176651052:stack/amplify-lfvc-prod-81149/57bf9dd0-eca4-11ec-9288-0a055b1cb129",
+      "AmplifyAppId": "d1hjm027f1ivy4"
+    },
+    "categories": {
+      "auth": {
+        "lfvc2ad461e3": {}
+      }
+    }
   }
 }
